@@ -36,7 +36,7 @@
 📧: ines.bourguiba.enit@gmail.com
 📄: www.linkedin.com/in/ines-bourguiba
 
-📜 "Results happen over time, not overnight. Work hard, stay consistent, and be patient. "
+### 📜 "Results happen over time, not overnight. Work hard, stay consistent, and be patient. "
          
 <!--
 **Inesbourguibaweb/Inesbourguibaweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
