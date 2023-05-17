@@ -6,7 +6,9 @@
 
 👩‍🎓 I'm a coding bootcamp graduate from Coding Dojo 
 
-🧰 Frameworks and Libraries
+
+
+### 🧰 Frameworks and Libraries
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
