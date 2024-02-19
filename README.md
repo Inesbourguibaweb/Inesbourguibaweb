@@ -2,9 +2,11 @@
 
 ### About me
 
-💼 I'm a junior Full-Stack Web Developer 💻 .
+💼 I'm a Full-Stack Web Developer 💻 .
 
 👩‍🎓 I'm a coding bootcamp graduate from Coding Dojo 
+
+👷‍♀️ I'm working @Shipzzzer : the first Terminal Operating System (TOS) designed to support Inland Service operations sold as a SaaS.
 
 
 
